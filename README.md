@@ -26,7 +26,7 @@ This dashboard analyzes **diabetes cases** from a hospital admissions dataset (4
 - Data from [Hospital HMIS Dataset](https://www.kaggle.com/datasets/shalakagangurde/hospital-hmis-dataset-for-healthcare-analytics)
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Skjermbilde 2026-03-20 133522.png)
+![Dashboard Screenshot](screenshot_dashboard.png)
 
 ## 📬 Contact
 **Miriam González** – [LinkedIn](https://linkedin.com/in/miriam-gonzalez-a8793a381)
